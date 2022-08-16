@@ -1,0 +1,12 @@
+/home/mooma/test/cmaketest/build/CMakeFiles/rebuild_cache.dir
+/home/mooma/test/cmaketest/build/CMakeFiles/cmaketest.dir
+/home/mooma/test/cmaketest/build/CMakeFiles/edit_cache.dir
+/home/mooma/test/cmaketest/build/subfunc/CMakeFiles/rebuild_cache.dir
+/home/mooma/test/cmaketest/build/subfunc/CMakeFiles/subfunc.dir
+/home/mooma/test/cmaketest/build/subfunc/CMakeFiles/edit_cache.dir
+/home/mooma/test/cmaketest/build/subfunc/subsubfunc/CMakeFiles/rebuild_cache.dir
+/home/mooma/test/cmaketest/build/subfunc/subsubfunc/CMakeFiles/subsubfunc.dir
+/home/mooma/test/cmaketest/build/subfunc/subsubfunc/CMakeFiles/edit_cache.dir
+/home/mooma/test/cmaketest/build/unit-test/CMakeFiles/rebuild_cache.dir
+/home/mooma/test/cmaketest/build/unit-test/CMakeFiles/unit-test.dir
+/home/mooma/test/cmaketest/build/unit-test/CMakeFiles/edit_cache.dir

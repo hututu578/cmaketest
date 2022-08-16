@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cmaketest.dir/main.cpp.o CMakeFiles/cmaketest.dir/src/func1.cpp.o CMakeFiles/cmaketest.dir/src/func2.cpp.o  -o cmaketest subfunc/libsubfunc.a subfunc/subsubfunc/libsubsubfunc.a 

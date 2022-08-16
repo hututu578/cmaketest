@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../subfunc/subsubfunc/subsubfunc.hpp
+
+/home/mooma/test/cmaketest/subfunc/subfunc.cpp
+subfunc.hpp
+/home/mooma/test/cmaketest/subfunc/subfunc.hpp
+subsubfunc.hpp
+/home/mooma/test/cmaketest/subfunc/subsubfunc.hpp
+iostream
+-
+string
+-
+
+/home/mooma/test/cmaketest/subfunc/subfunc.hpp
+
